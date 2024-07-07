@@ -45,4 +45,4 @@
     <li>Respond to any feedback or questions during the review process.</li>
 </ol>
 
-<p>We welcome improvements, bug fixes, and additional features that can enhance this ring ring.</p>
+<p>We welcome improvements, bug fixes, and additional features that can enhance this Simple Composition.</p>
